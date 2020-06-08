@@ -2,4 +2,4 @@
 echo "this script is from github"
 NUMSUM=$(($NUMONE + $NUMTWO))
 echo "$NUMSUM"
-echo "this is complete"
+echo "This is complete"
